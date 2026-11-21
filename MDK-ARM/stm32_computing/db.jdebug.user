@@ -1,0 +1,52 @@
+
+
+GraphedExpression="(out).phi_dot_L", Color=#e56a6f, Show=0
+GraphedExpression="(out).phi_dot_R", Color=#35792b
+OpenDocument="main.cpp", FilePath="c:/Users/rippe/Documents/CodeGenByCubemx/stm32_computing/Core/Src/main.cpp", Line=0
+OpenDocument="main.h", FilePath="c:/Users/rippe/Documents/CodeGenByCubemx/stm32_computing/Core/Inc/main.h", Line=21
+OpenDocument="Motor.c", FilePath="C:/Users/rippe/Documents/CodeGenByCubemx/stm32_computing/MyDrivers/Motor.c", Line=0
+OpenDocument="startup_stm32f407xx.s", FilePath="c:/Users/rippe/Documents/CodeGenByCubemx/stm32_computing/MDK-ARM/startup_stm32f407xx.s", Line=165
+OpenDocument="Servo.h", FilePath="c:/Users/rippe/Documents/CodeGenByCubemx/stm32_computing/MyDrivers/Servo.h", Line=0
+OpenDocument="alg_pid.cpp", FilePath="c:/Users/rippe/Documents/CodeGenByCubemx/stm32_computing/MyDrivers/alg_pid.cpp", Line=64
+OpenDocument="stm32f4xx_hal.c", FilePath="C:/Users/rippe/Documents/CodeGenByCubemx/stm32_computing/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c", Line=392
+OpenDocument="drv_math.h", FilePath="c:/Users/rippe/Documents/CodeGenByCubemx/stm32_computing/MyDrivers/drv_math.h", Line=50
+OpenDocument="Encoder.c", FilePath="c:/Users/rippe/Documents/CodeGenByCubemx/stm32_computing/MyDrivers/Encoder.c", Line=0
+OpenDocument="Motor.h", FilePath="C:/Users/rippe/Documents/CodeGenByCubemx/stm32_computing/MyDrivers/Motor.h", Line=0
+OpenDocument="Motor_cpp_style.cpp", FilePath="c:/Users/rippe/Documents/CodeGenByCubemx/stm32_computing/MyDrivers/Motor_cpp_style.cpp", Line=39
+OpenDocument="stm32f4xx_hal_uart.c", FilePath="C:/Users/rippe/Documents/CodeGenByCubemx/stm32_computing/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c", Line=2662
+OpenDocument="stm32f4xx_it.c", FilePath="c:/Users/rippe/Documents/CodeGenByCubemx/stm32_computing/Core/Src/stm32f4xx_it.c", Line=86
+OpenToolbar="Debug", Floating=0, x=0, y=0
+OpenWindow="Watched Data 1", DockArea=LEFT, x=0, y=0, w=1727, h=799, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, RefreshRate=2
+OpenWindow="Data Sampling", DockArea=BOTTOM, x=1, y=0, w=838, h=471, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, VisibleTab=0, UniformSampleSpacing=0
+OpenWindow="Timeline", DockArea=BOTTOM, x=2, y=0, w=987, h=471, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=1, DataPaneShown=1, PowerPaneShown=0, CodePaneShown=0, PinCursor="Cursor Movable", TimePerDiv="1 s / Div", TimeStampFormat="Time", DataGraphDrawAsPoints=0, DataGraphLegendShown=1, DataGraphUniformSampleSpacing=0, DataGraphLegendPosition="44;11", DataGraphShowNamesAtCursor=0, PowerGraphDrawAsPoints=0, PowerGraphLegendShown=0, PowerGraphAvgFilterTime=Off, PowerGraphAvgFilterLen=Off, PowerGraphUniformSampleSpacing=0, PowerGraphLegendPosition="726;-77", CodeGraphLegendShown=0, CodeGraphLegendPosition="746;0"
+OpenWindow="Console", DockArea=BOTTOM, x=0, y=0, w=733, h=471, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+SmartViewPlugin="", Page="", Toolbar="Hidden", Window="SmartView 1"
+TableHeader="Data Sampling Table", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time";" (out).phi_dot_L";" (out).phi_dot_R"], ColWidths=[100;100;100;100]
+TableHeader="Data Sampling Setup", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Type";"Value";"Min";"Max";"Average";"# Changes";"Min. Change";"Max. Change"], ColWidths=[126;74;80;60;60;100;120;140;140]
+TableHeader="Power Sampling", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time";"Ch 0"], ColWidths=[100;100;100]
+TableHeader="Watched Data 1", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Refresh";"Expression";"Value";"Location";"Access"], ColWidths=[142;413;171;755;246]
+TableHeader="RegisterSelectionDialog", SortCol="None", SortOrder="ASCENDING", VisibleCols=[], ColWidths=[]
+TableHeader="TargetExceptionDialog", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Address";"Description"], ColWidths=[200;100;100;351]
+WatchedExpression="(out).phi_dot_L", RefreshState=2, Window=Watched Data 1
+WatchedExpression="(out).phi_dot_R", RefreshState=2, Window=Watched Data 1
+WatchedExpression="NowA", RefreshState=2, Window=Watched Data 1
+WatchedExpression="vx_cmd", RefreshState=2, Window=Watched Data 1
+WatchedExpression="om_cmd", RefreshState=2, Window=Watched Data 1
+WatchedExpression="estop_active", RefreshState=2, Window=Watched Data 1
+WatchedExpression="((htim11).Instance)->CCR1", RefreshState=2, Window=Watched Data 1
+WatchedExpression="((htim10).Instance)->CCR1", RefreshState=2, Window=Watched Data 1
+WatchedExpression="Motor_A", RefreshState=2, Window=Watched Data 1
+WatchedExpression="Kp", RefreshState=2, Window=Watched Data 1
+WatchedExpression="Ki", RefreshState=2, Window=Watched Data 1
+WatchedExpression="Kd", RefreshState=2, Window=Watched Data 1
+WatchedExpression="MotorA_PID", RefreshState=2, Window=Watched Data 1
+WatchedExpression="TIM1->CCR3", RefreshState=2, Window=Watched Data 1
+WatchedExpression="TIM1->CCR4", RefreshState=2, Window=Watched Data 1
+WatchedExpression="MotorD_PID", RefreshState=2, Window=Watched Data 1
+WatchedExpression="NowD", RefreshState=2, Window=Watched Data 1
+WatchedExpression="NowC", RefreshState=2, Window=Watched Data 1
+WatchedExpression="TIM1->CCR1", RefreshState=2, Window=Watched Data 1
+WatchedExpression="TIM1->CCR2", RefreshState=2, Window=Watched Data 1
+WatchedExpression="SpeedRate_ServoPitch_cmd", RefreshState=2, Window=Watched Data 1
+WatchedExpression="TIM12->CCR2", RefreshState=2, Window=Watched Data 1
+WatchedExpression="TIM12->CCR1", RefreshState=2, Window=Watched Data 1
